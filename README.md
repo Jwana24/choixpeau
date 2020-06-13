@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The sorting hat quest
+<img width="1440" alt="Capture d’écran 2020-06-13 à 20 50 19" src="https://user-images.githubusercontent.com/38757545/84576778-9940c280-adb7-11ea-9a0b-3502e336eb37.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
