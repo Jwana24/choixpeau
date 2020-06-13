@@ -1,0 +1,17 @@
+.Message h1{
+  margin-bottom: 30px;
+}
+
+.ContainerChoiceHouse{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.ContainerHouse{
+  height: 45vh;
+  width: 12%;
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
